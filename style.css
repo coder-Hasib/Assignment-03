@@ -1,0 +1,23 @@
+.banner-container{
+    background-color: #264653;
+    max-width: auto;
+    Height :698px;
+    
+}
+.header-intro{
+    color: #E76F51;
+}
+.btn-honda-cbr{
+    background-color: #E76F51;
+}
+
+.client-honda-cbr{
+    color:#E76F51 ;
+}
+
+.honda-cbr-filter{
+    filter: grayscale(100%);
+}
+.honda-style{
+    color: #f1542d;
+}
